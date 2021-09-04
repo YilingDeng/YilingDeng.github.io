@@ -1,0 +1,13 @@
+---
+title: "Application of machine learning with a surrogate model to explore seniors daily activity patterns"
+collection: publications
+permalink: /publication/2021-09-01-Application of machine learning with a surrogate model to explore seniors daily activity patterns
+excerpt: 'Investigating seniors’ daily activity patterns (DAPs) is essential to understand their activity-travel needs. Although some studies have applied machine learning (ML) to derive DAPs, few of them have sought to improve the interpretability of ML. This study aims to predict and interpret seniors’ DAPs in the Chinese context by using ML with a surrogate model. First, a boosted C5.0 algorithm was employed to model seniors’ DAPs, which provided more accurate predictions than the multinomial logit (MNL) model. Second, a rule-based C5.0 algorithm was used as a surrogate model to approximate the prediction function of the boosted C5.0 algorithm and to provide insight into the underlying decision processes in the boosted C5.0 algorithm. The results show that retired men are most likely to lack out-of-home activities. A good residential built environment, especially good walkability and public transit accessibility, increases seniors’ out-of-home activities. This study provides recommendations for increasing seniors’ mobility.'
+date: 2021-09-01
+venue: 'Transportation Letters: The International Journal of Transportation Research'
+---
+摘要：Investigating seniors’ daily activity patterns (DAPs) is essential to understand their activity-travel needs. Although some studies have applied machine learning (ML) to derive DAPs, few of them have sought to improve the interpretability of ML. This study aims to predict and interpret seniors’ DAPs in the Chinese context by using ML with a surrogate model. First, a boosted C5.0 algorithm was employed to model seniors’ DAPs, which provided more accurate predictions than the multinomial logit (MNL) model. Second, a rule-based C5.0 algorithm was used as a surrogate model to approximate the prediction function of the boosted C5.0 algorithm and to provide insight into the underlying decision processes in the boosted C5.0 algorithm. The results show that retired men are most likely to lack out-of-home activities. A good residential built environment, especially good walkability and public transit accessibility, increases seniors’ out-of-home activities. This study provides recommendations for increasing seniors’ mobility.
+
+引用：Yiling Deng. Application of machine learning with a surrogate model to explore seniors’ daily activity patterns. Transportation Letters, 2021. 
+
+[下载](http://YilingDeng.github.io/files/Application of machine learning with a surrogate model to explore seniors daily activity patterns.pdf)
