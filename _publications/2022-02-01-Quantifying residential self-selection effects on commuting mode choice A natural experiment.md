@@ -8,6 +8,6 @@ venue: 'Transportation Research Part D'
 ---
 摘要：Though the impact of residential self-selection on travel behavior has been widely discussed in transport studies, few studies have examined its effect on commuting mode choice, particularly when considering the mediating effects of commuting distance and car ownership. By using survey data from 19 large cities in China and taking advantage of the largely exogenous residential locations of social housing residents, we employed a natural experiment framework that combines propensity score weighting and simultaneous equation models to investigate the effects of the built environment and residential self-selection on commuting mode choice. The results show that most direct and indirect effects through commuting distance and car ownership are significant. The total effects of the built environment and residential self-selection have the same coefficient signs for car and regular bike modes, while they have opposite coefficient signs for public transit and e-bike modes.
 
-引用：Yiling Deng, Pengjun Zhao. Quantifying residential self-selection effects on commuting mode choice: A natural experiment. Transportation Research Part D: Transport and Environment, 2022, (104), 103197.
+引用：Yiling Deng, Pengjun Zhao. Quantifying residential self-selection effects on commuting mode choice: A natural experiment. Transportation Research Part D: Transport and Environment, 2022, 104, 103197.
 
 [下载](http://YilingDeng.github.io/files/Quantifying residential self-selection effects on commuting mode choice A natural experiment.pdf)
