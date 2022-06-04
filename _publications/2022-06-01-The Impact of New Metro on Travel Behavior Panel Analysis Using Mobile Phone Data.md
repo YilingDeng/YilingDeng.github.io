@@ -1,7 +1,7 @@
 ---
 title: "The Impact of New Metro on Travel Behavior: Panel Analysis Using Mobile Phone Data"
 collection: publications
-permalink: /publication/2022-06-01-The Impact of New Metro on Travel Behavior Panel Analysis Using Mobile Phone Data
+permalink: /publication/2014-03-01-Application of Travel Activity Scheduler for Household Agents in a Chinese City
 excerpt: 'The impact of urban rail transit on changes in various travel behavior outcomes has long been debated. However, few studies have used large-scale panel data to investigate how urban rail transit affects travel behavior. In the case of the new metros in Shenzhen, China, we constructed a four-wave panel of 7,799 residents across two years by using mobile phone data. We used a treatment–control group research design and a difference-in-differences analysis to evaluate the impact of the new metros on travel behavior in catchment areas of 0–1, 1–2, and 2–3 km, respectively. The results show that the appearance of the new metros increased the metro trips and activity space for the residents living in the 0–3 km range, but only increased total trip frequency and distance for the residents living in the 0–1 km range. New metro trips mainly replaced bike, e-bike, and bus trips, and slowed the growth trend of car trips. The findings help planners and policymakers better understand the impact of urban rail transit on the residents’ mobilities.'
 date: 2022-06-01
 venue: 'Transportation Research Part A'
