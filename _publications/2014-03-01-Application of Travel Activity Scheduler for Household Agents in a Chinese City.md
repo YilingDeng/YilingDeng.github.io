@@ -1,13 +1,13 @@
 ---
-title: "Application of Travel Activity Scheduler for Household Agents in a Chinese City"
+title: "Application of travel activity scheduler for household agents in a Chinese city"
 collection: publications
-permalink: /publication/2014-03-01-Application of Travel Activity Scheduler for Household Agents in a Chinese City
+permalink: /publication/2014-03-01-Application of travel activity scheduler for household agents in a Chinese city
 excerpt: 'The travel activity scheduler for household agents (TASHA) is an operational rule-based model that generates activity schedules and travel patterns for a 24-h typical weekday for all persons in a household. This paper reports the application and validation of the model in Changzhou, China. The data cleaning procedure of the traditional household survey and the verification results of the rules used in the TASHA are presented. After the results of the activity generation and scheduling models were analyzed, an iterative approach was applied to inflating the observed activity rates to calibrate the results. The model was shown to replicate observed activity frequency, tour frequency, and trip start time fairly accurately at the regional level. The activity duration of the model was underestimated by 13.1%, but this underestimate did not add much bias to the shape of the duration distribution by start time. The final model results show that the TASHA is an attractive alternative to conventional modeling systems currently used in Changzhou.'
 date: 2014-03-01
 venue: 'Transportation Research Record'
 ---
 摘要：The travel activity scheduler for household agents (TASHA) is an operational rule-based model that generates activity schedules and travel patterns for a 24-h typical weekday for all persons in a household. This paper reports the application and validation of the model in Changzhou, China. The data cleaning procedure of the traditional household survey and the verification results of the rules used in the TASHA are presented. After the results of the activity generation and scheduling models were analyzed, an iterative approach was applied to inflating the observed activity rates to calibrate the results. The model was shown to replicate observed activity frequency, tour frequency, and trip start time fairly accurately at the regional level. The activity duration of the model was underestimated by 13.1%, but this underestimate did not add much bias to the shape of the duration distribution by start time. The final model results show that the TASHA is an attractive alternative to conventional modeling systems currently used in Changzhou.
 
-引用：Yiling Deng, Eric Miller, James Vaughan. Application of Travel Activity Scheduler for Household Agents in a Chinese City. Transportation Research Record, 2014, 2429, 121-128.
+引用：Yiling Deng, Eric Miller, James Vaughan. Application of travel activity scheduler for household agents in a Chinese city. Transportation Research Record, 2014, 2429, 121-128.
 
 [下载](http://YilingDeng.github.io/files/Application of travel activity scheduler for household agents in a Chinese city.pdf)

@@ -8,6 +8,6 @@ venue: 'Transportation'
 ---
 摘要：Free-floating bike share (FBS) represents a new generation of bike share schemes and provides mobility opportunities that influence people’s daily travel. Understanding the determinants of FBS use can provide a basis for the further development of bike share programs and support related policymaking. Previous studies have used survey data with rather small samples and have focused only on FBS users while ignoring nonusers. The influences of information and communication technology (ICT) use and social context are under-researched. By using a dataset that is nationally representative of the potential users of FBS in China, this study applied a two-stage Bayesian multilevel hurdle model to investigate participation in and the corresponding usage of FBS. The independent variables include sociodemographics, ICT use, travel characteristics, physical environment, and social context. We found that ICT use has a significant effect on both participation in and the usage of FBS, social context only has a significant effect on participation in FBS, and age and annual individual income have nonlinear effects on the usage of FBS. This study provides policymakers and FBS operators with suggestions for promoting FBS use.
 
-引用：Yiling Deng, Pengjun Zhao. The determinants of shared bike use in China. Transportation, 2021.
+引用：Yiling Deng, Pengjun Zhao. The determinants of shared bike use in China. Transportation, 2023, 50(1), 1-23.
 
 [下载](http://YilingDeng.github.io/files/The determinants of shared bike use in China.pdf)
