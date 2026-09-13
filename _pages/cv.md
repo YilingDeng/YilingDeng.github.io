@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 工学博士，东南大学，交通运输工程，2009-2015
+* 国家公派博士研究生，多伦多大学，交通工程，2012-2013
+* 工学学士，东南大学，交通工程，2005-2009
 
-Work experience
+Work
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 副教授，浙江工业大学设计与建筑学院，2020-至今
+* 浙江省高等学校国内访问学者，北京大学城市规划与设计学院，2021-2022
+* 讲师，浙江工业大学建筑工程学院，2015-2019
+* 副县长（挂职），宁夏回族自治区银川市贺兰县政府，2015-2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 交通规划方面
+  * 交通与土地利用
+  * 步行与自行车交通规划
+  * 公共交通规划
+* 交通模型方面
+  * 基于活动的交通模型
+  * 大规模交通数据分析与建模
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Research Projects
 ======
-* Currently signed in to 43 different slack teams
+* 数据驱动的城市骑行环境评价及导控研究，国家自然科学基金，负责人，2020-2023。
+* 个人活动-出行规划过程的动态机制与微观模拟研究，国家自然科学基金，负责人，2017-2019。
+* 自行车复兴背景下城市骑行空间评价及改善对策研究——以杭州为例，浙江省哲学社会科学规划课题，负责人，2018-2020。
+* 影响行人步行体验的街道环境因素研究，浙江省教育厅科研项目，负责人，2016-2017。
+* 城市慢行系统规划编制研究，江苏省住建厅科技计划项目，第三完成人，获江苏省建设优秀科技成果三等奖，2016。
+
+Competition Awards
+======
+* 面向公交企业的城市公交辅助优化系统，国际摄影测量与遥感协会（ISPRS）“科学倡议数据开放大赛”一等奖，第一作者，2015。
+* 南京市轨道交通站点非机动车“免费停放+专人管理”模式，第二届法国动态城市基金会“机动性，让城市生活更美好——城市交通出行创新实践竞赛”一等奖，第一作者，2011。
+* 团队化的交通规划软件教学研用模式，第五届“亚洲EMME交通模型会议论文竞赛”一等奖，第一作者，2011。
