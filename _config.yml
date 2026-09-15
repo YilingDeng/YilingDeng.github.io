@@ -218,7 +218,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false   # 暂时关闭 Portfolio，恢复时改回 true
     permalink: /:collection/:path/
 
 

@@ -20,7 +20,7 @@ collection: portfolio
 
 决赛为自由命题，感觉其他几个参赛队伍大多是GIS背景，而我是交通背景，因此从思路上来说更加考虑数据在交通行业实际应用的问题。很多时候，科学研究和实践应用之间有很大的差距，这在国内尤为明显，学术界有很复杂的模型进行公交线网的规划和公交运营的优化，但真正到了业界，都还是以经验为主。我希望成果能一定程度上缝合两者之间的差距，因此选择写了Transit Analyst这个应用，即面向公交企业的公交辅助决策系统，而不是做一个研究，当然Transit Analyst目前还有一些核心功能有待进一步的开发。程序采用R和Shiny进行开发，Shiny的好处就是网络应用，一方面能够方便用户使用，另一方面也有起到宣传作用。这是我写的第一个完整的Shiny程序，程序中调用了leaflet、plotly等服务。在熟悉R语言的前提下，学习使用Shiny非常方便，是非计算机专业出身的业余程序猿开发数据应用的利器。Shiny程序可以在shinyapps.io上非常简单的进行发布。最终经过专家的现场评分，决赛也排名第一。
 
-最终成果应用: [https://yiling.shinyapps.io/TransitAnalyst/](https://yiling.shinyapps.io/TransitAnalyst/)   
+最终成果应用: [https://yiling.shinyapps.io/TransitAnalyst/](https://01a0a4d5-7b3e-7429-54be-f679da39a7ae.share.connect.posit.cloud)   
 源代码: [https://github.com/yilingdeng/ISPRS](https://github.com/coralseu/ISPRS)   
 欢迎提供意见建议和开展项目科研合作！
 
