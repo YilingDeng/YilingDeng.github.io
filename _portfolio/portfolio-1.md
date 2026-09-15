@@ -2,6 +2,7 @@
 title: "科学倡议数据开放竞赛"
 excerpt: "公交规划支持系统——Transit Analyst<br/><img src='/images/500x300.png'>"
 collection: portfolio
+published: false   # 隐藏该条目，恢复时删除本行
 ---
 
 **先说说比赛**
