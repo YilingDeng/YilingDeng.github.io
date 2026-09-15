@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "邓一凌"
   pronouns         : # example: "she/her"  
-  bio              : "博士，教授，现就职于浙江工业大学设计与建筑学院，研究兴趣包括交通行为、规划与政策"
+  bio              : "教授，博导，现就职于浙江工业大学设计与建筑学院，研究兴趣包括交通行为、规划与政策"
   location         : "中国 杭州"
   employer         : "浙江工业大学"
   uri              : # URL
@@ -249,7 +249,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:

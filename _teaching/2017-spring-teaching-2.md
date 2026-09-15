@@ -2,10 +2,11 @@
 title: "对外交通规划"
 collection: teaching
 type: "本科生专业课"
-permalink: /teaching/2017-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-2
 venue: "浙江工业大学"
 date: 2017-03-01
 location: "杭州, 中国"
+archived: true
 ---
 
 针对城乡规划本科的专业课程，为城市总体规划和城市综合交通规划提供理论和方法支撑。

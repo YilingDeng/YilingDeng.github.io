@@ -6,6 +6,7 @@ permalink: /teaching/2017-autumn-teaching-2
 venue: "浙江工业大学"
 date: 2017-09-01
 location: "杭州, 中国"
+archived: true
 ---
 
 研究城市交通与土地利用间的相互作用及作用机制，对于构建良好的城市空间结构、缓解城市交通问题、促进城市可持续发展等具有重要意义。

@@ -6,6 +6,7 @@ permalink: /teaching/2017-spring-teaching-1
 venue: "浙江工业大学"
 date: 2017-03-01
 location: "杭州, 中国"
+archived: true
 ---
 
 针对城乡规划本科的专业课程，主要配合城市总体规划、详细规划等阶段的道路交通规划设计，使学生掌握道路交通的基本知识和城市道路设计能力。

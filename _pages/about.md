@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "邓一凌"
+hide_title: true
 excerpt: ""
 author_profile: true
 redirect_from: 

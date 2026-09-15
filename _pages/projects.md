@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Projects"
+hide_title: true
 permalink: /projects/
 author_profile: true
 ---

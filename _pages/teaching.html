@@ -1,12 +1,19 @@
 ---
 layout: archive
 title: "Teaching"
+hide_title: true
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign current_courses = site.teaching | where_exp: "post", "post.archived != true" | reverse %}
+{% for post in current_courses %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% assign archived_courses = site.teaching | where_exp: "post", "post.archived == true" | reverse %}
+{% if archived_courses.size > 0 %}
+<p style="margin-top: 2em">已归档课程：<a href="{{ base_path }}/teaching-archive/">Archived courses</a>（{{ archived_courses.size }} 门）</p>
+{% endif %}

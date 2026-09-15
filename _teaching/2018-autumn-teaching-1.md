@@ -6,6 +6,7 @@ permalink: /teaching/2018-autumn-teaching-1
 venue: "浙江工业大学"
 date: 2018-09-01
 location: "杭州, 中国"
+archived: true
 ---
 
 针对城乡规划本科、研究生的专业课程，使学生熟悉系统工程的概念、思路，掌握城乡规划中调查、统计、分析、评价、决策等常用方法。
