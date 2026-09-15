@@ -21,10 +21,10 @@ repository               : "YilingDeng/YilingDeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "邓一凌"
   pronouns         : # example: "she/her"  
-  bio              : "博士，副教授，现就职于浙江工业大学设计与建筑学院，研究兴趣包括城市交通规划与模型"
+  bio              : "博士，教授，现就职于浙江工业大学设计与建筑学院，研究兴趣包括交通行为、规划与政策"
   location         : "中国 杭州"
   employer         : "浙江工业大学"
   uri              : # URL
@@ -220,9 +220,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -272,14 +269,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
